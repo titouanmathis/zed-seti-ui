@@ -1,0 +1,7 @@
+id = "seti-ui"
+name = "Seti UI Theme"
+version = "0.0.0"
+schema_version = 1
+authors = ["Titouan Mathis <titouan@studiometa.fr>"]
+description = "Seti UI theme for Zed"
+repository = "https://github.com/titouanmathis/zed-seti-ui"
