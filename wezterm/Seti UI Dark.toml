@@ -1,0 +1,61 @@
+[metadata]
+name = "Seti UI Dark"
+author = "Titouan Mathis <titouan@studiometa.fr>"
+origin_url = "https://github.com/titouanmathis/zed-seti-ui"
+
+[colors]
+foreground = "#d4d7d6"
+background = "#121314"
+cursor_fg = "#121314"
+cursor_bg = "#ffe792"
+cursor_border = "#ffe792"
+selection_fg = "none"
+selection_bg = "#4FA5C740"
+scrollbar_thumb = "#161f2780"
+split = "#171c27"
+compose_cursor = "#E6DB74"
+
+ansi = [
+  "#0D1011",
+  "#F92672",
+  "#A6E22E",
+  "#E6DB74",
+  "#4FA5C7",
+  "#AE81FF",
+  "#4FA5C7",
+  "#d4d7d6",
+]
+
+brights = [
+  "#3a4450",
+  "#a81849",
+  "#6f941f",
+  "#a8a450",
+  "#326b8f",
+  "#7b5ccc",
+  "#326b8f",
+  "#ffffff",
+]
+
+[colors.tab_bar]
+background = "#0D1011"
+
+[colors.tab_bar.active_tab]
+bg_color = "#121314"
+fg_color = "#d4d7d6"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#0D1011"
+fg_color = "#d4d7d670"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#161f27"
+fg_color = "#d4d7d6"
+
+[colors.tab_bar.new_tab]
+bg_color = "#0D1011"
+fg_color = "#d4d7d670"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#161f27"
+fg_color = "#d4d7d6"

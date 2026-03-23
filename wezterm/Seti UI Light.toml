@@ -1,0 +1,61 @@
+[metadata]
+name = "Seti UI Light"
+author = "Titouan Mathis <titouan@studiometa.fr>"
+origin_url = "https://github.com/titouanmathis/zed-seti-ui"
+
+[colors]
+foreground = "#1a1a1a"
+background = "#eeeeee"
+cursor_fg = "#eeeeee"
+cursor_bg = "#a8932d"
+cursor_border = "#a8932d"
+selection_fg = "none"
+selection_bg = "#4FA5C740"
+scrollbar_thumb = "#c5c5c580"
+split = "#d5d5d5"
+compose_cursor = "#c5a83a"
+
+ansi = [
+  "#f5f5f5",
+  "#c9133d",
+  "#7ab420",
+  "#c5a83a",
+  "#2d7ea0",
+  "#8a4dcc",
+  "#2d7ea0",
+  "#1a1a1a",
+]
+
+brights = [
+  "#b0b0b0",
+  "#ef6d7e",
+  "#a8d960",
+  "#dfc860",
+  "#7ec4d5",
+  "#c595ff",
+  "#7ec4d5",
+  "#000000",
+]
+
+[colors.tab_bar]
+background = "#f5f5f5"
+
+[colors.tab_bar.active_tab]
+bg_color = "#eeeeee"
+fg_color = "#1a1a1a"
+
+[colors.tab_bar.inactive_tab]
+bg_color = "#f5f5f5"
+fg_color = "#1a1a1a99"
+
+[colors.tab_bar.inactive_tab_hover]
+bg_color = "#e0e0e0"
+fg_color = "#1a1a1a"
+
+[colors.tab_bar.new_tab]
+bg_color = "#f5f5f5"
+fg_color = "#1a1a1a99"
+
+[colors.tab_bar.new_tab_hover]
+bg_color = "#e0e0e0"
+fg_color = "#1a1a1a"
